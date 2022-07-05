@@ -1,4 +1,5 @@
-from experimental_data.excel.excel_data import ExcelData
+from experimentalist_data.excel.excel_data import ExcelData
+
 
 def test_excel_data(base_data):
 

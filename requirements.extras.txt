@@ -1,0 +1,13 @@
+# FORMAT
+# Put your extra requirements here in the following format
+#
+# package[version_required]: tag1, tag2, ...
+# Reference: https://hanxiao.io/2019/11/07/A-Better-Practice-for-Managing-extras-require-Dependencies-in-Python/
+
+black==22.6.0: dev
+flake8==4.0.1: dev
+isort==5.10.1: dev
+pytest==7.1.2: dev
+mkdocstrings[python]==0.19.0: docs
+mkdocs-material==8.3.9: docs
+mkdocs-autorefs==0.4.1: docs
